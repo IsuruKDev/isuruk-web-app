@@ -1,2 +1,2 @@
 # isuruk-web-app
-Cloud environment testin app 
+Cloud environment testing app 
